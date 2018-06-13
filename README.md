@@ -9,6 +9,8 @@
 *   `yarn` или `npm i`
 *   `yarn start` или `npm start`
 
+> Для работы с API тебе пригодятся [доки](https://lab.lectrum.io/docs/redux/).
+
 ## Чтобы задеплоить приложение на github pages:
 
 *   Запуши репозиторий с приложением на github
